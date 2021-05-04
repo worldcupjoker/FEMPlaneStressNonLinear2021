@@ -1,6 +1,6 @@
 % Copyright, 2021, (Ted) Zhongkun Zhan, all rights reserved.
 % File name: NonLinearQ8.m
-% This file solves a 2 demensional stead state heat transfer problem using
+% This file solves a 2 demensional non linear plane stress problem using
 % finite element method with 8-node quadrilateral element type.
 % Input: [file name]
 
