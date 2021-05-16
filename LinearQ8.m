@@ -5,7 +5,7 @@
 % Input: [file name]
 
 classdef LinearQ8 < handle
-    properties %(Access = private)
+    properties (Access = private)
         
         % main function run time.
         time;
@@ -39,7 +39,7 @@ classdef LinearQ8 < handle
         stress;
     end
     
-    properties %(Access = private)
+    properties (Access = private)
         % Temperary object.
         tempObj;
         
