@@ -5,7 +5,7 @@
 % Input: [file name]
 
 classdef NonLinearQ8 < handle
-    properties %(Access = private)
+    properties (Access = private)
         
         % main function run time.
         time;
