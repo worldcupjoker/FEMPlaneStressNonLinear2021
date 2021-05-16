@@ -49,7 +49,7 @@ classdef NonLinearQ8 < handle
         stress;
     end
     
-    properties %(Access = private)
+    properties (Access = private)
         % Temperary object.
         tempObj;
         
